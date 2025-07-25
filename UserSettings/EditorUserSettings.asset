@@ -5,43 +5,6 @@ EditorUserSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 4
   m_ConfigSettings:
-    RecentlyUsedSceneGuid-0:
-      value: 5a08575f5207595a0f5d59741173094444164f7d7d2a23317c7a4465bbe1646d
-      flags: 0
-    RecentlyUsedSceneGuid-1:
-      value: 02550c025750505f5b0b0a7415260f444f4f192b742a24627a2c486bb4b03268
-      flags: 0
-    RecentlyUsedSceneGuid-2:
-      value: 010700505c015d09090a5b2743710744134e4e2f2e7e23692e7c4565e3e16469
-      flags: 0
-    RecentlyUsedSceneGuid-3:
-      value: 5052575e06015d0c5b5b5c264777064445161e2c7b2e2535752b1967e1b86d6b
-      flags: 0
-    RecentlyUsedSceneGuid-4:
-      value: 02000600570d5e0d5e5c0d7615265944464e1c287d7a2569747b1835e1b4646e
-      flags: 0
-    RecentlyUsedSceneGuid-5:
-      value: 5b505507550c5d595b0a552343275c4414154b7b797f23612e7c4d60bbb13560
-      flags: 0
-    RecentlyUsedSceneGuid-6:
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-      value: 000400555550510b0b5c5c241571094443154c2e782d75337c7a4965b3b1636e
-=======
-=======
->>>>>>> Stashed changes
-      value: 0603065f55045b0358595e2012210844404f1a7d7c2a7234297d4f63e3b86560
-      flags: 0
-    RecentlyUsedSceneGuid-7:
-      value: 015256535c570a5f580c5c23167a0644424f1e7d7e2c23337f784564e0e3353d
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-      flags: 0
-    lightmappingBakingProfile:
-      value: 51
-      flags: 0
     vcSharedLogLevel:
       value: 0d5e400f0650
       flags: 0
