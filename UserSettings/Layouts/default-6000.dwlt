@@ -20,7 +20,11 @@ MonoBehaviour:
     height: 772.8
   m_ShowMode: 4
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   m_Title: Scene
+=======
+  m_Title: Hierarchy
+>>>>>>> Stashed changes
 =======
   m_Title: Hierarchy
 >>>>>>> Stashed changes
@@ -45,9 +49,15 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     y: 444
     width: 546.4
     height: 272.8
+=======
+    y: 622.6667
+    width: 563.33325
+    height: 190.66663
+>>>>>>> Stashed changes
 =======
     y: 622.6667
     width: 563.33325
@@ -85,7 +95,11 @@ MonoBehaviour:
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   controlID: 98
+=======
+  controlID: 113
+>>>>>>> Stashed changes
 =======
   controlID: 113
 >>>>>>> Stashed changes
@@ -115,7 +129,11 @@ MonoBehaviour:
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   controlID: 47
+=======
+  controlID: 112
+>>>>>>> Stashed changes
 =======
   controlID: 112
 >>>>>>> Stashed changes
@@ -143,6 +161,9 @@ MonoBehaviour:
 =======
     width: 563.33325
     height: 622.6667
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
   m_MinSize: {x: 276, y: 76}
   m_MaxSize: {x: 4001, y: 4026}
@@ -438,7 +459,11 @@ MonoBehaviour:
     m_SearchArea: 1
     m_Folders:
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     - Assets/Maria Jose Galindo
+=======
+    - Packages/com.unity.render-pipelines.universal/Runtime/Materials
+>>>>>>> Stashed changes
 =======
     - Packages/com.unity.render-pipelines.universal/Runtime/Materials
 >>>>>>> Stashed changes
@@ -452,7 +477,11 @@ MonoBehaviour:
   m_StartGridSize: 16
   m_LastFolders:
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   - Assets/Maria Jose Galindo
+=======
+  - Packages/com.unity.render-pipelines.universal/Runtime/Materials
+>>>>>>> Stashed changes
 =======
   - Packages/com.unity.render-pipelines.universal/Runtime/Materials
 >>>>>>> Stashed changes
@@ -462,15 +491,21 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 0ce20000
     m_LastClickedID: 57868
     m_ExpandedIDs: 0000000004e200000ce2000000ca9a3bffffff7f
 =======
+=======
+>>>>>>> Stashed changes
     scrollPos: {x: 0, y: 530.6667}
     m_SelectedIDs: cea90000
     m_LastClickedID: 43470
     m_ExpandedIDs: 0000000028a600000ca8000014a800003ea800004aa8000094a80000d0a9000000ca9a3bffffff7f
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -533,8 +568,13 @@ MonoBehaviour:
     m_RenameOverlay:
       m_UserAcceptedRename: 0
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       m_Name: Heal VFX
       m_OriginalName: Heal VFX
+=======
+      m_Name: 
+      m_OriginalName: 
+>>>>>>> Stashed changes
 =======
       m_Name: 
       m_OriginalName: 
@@ -546,7 +586,11 @@ MonoBehaviour:
         width: 0
         height: 0
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       m_UserData: 57998
+=======
+      m_UserData: 0
+>>>>>>> Stashed changes
 =======
       m_UserData: 0
 >>>>>>> Stashed changes
@@ -598,6 +642,9 @@ MonoBehaviour:
     y: 78.66667
     width: 562.33325
     height: 596.6667
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
   m_SerializedDataModeController:
     m_DataMode: 0
@@ -670,6 +717,9 @@ MonoBehaviour:
       m_SelectedIDs: 
       m_LastClickedID: 0
       m_ExpandedIDs: fcefffff5cf4ffff04f5ffffbef5ffff1cfbffff
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       m_RenameOverlay:
         m_UserAcceptedRename: 0
@@ -1011,6 +1061,7 @@ MonoBehaviour:
       sizeOverridden: 0
     - dockPosition: 0
       containerId: Floating
+<<<<<<< Updated upstream
       displayed: 0
       id: Scene View/Particles
       index: 0
@@ -1029,6 +1080,24 @@ MonoBehaviour:
       displayed: 1
       id: Scene View/Particles
 =======
+      displayed: 0
+      id: Scene View/Occlusion Culling
+>>>>>>> Stashed changes
+=======
+      displayed: 0
+      id: Scene View/Particles
+      index: 0
+      contents: '{"m_Layout":4,"m_Collapsed":false,"m_Floating":true,"m_FloatingSnapOffset":{"x":-232.0009765625,"y":-197.33432006835938},"m_SnapOffsetDelta":{"x":0.0,"y":0.0},"m_FloatingSnapCorner":3,"m_Size":{"x":0.0,"y":0.0},"m_SizeOverridden":false}'
+      floating: 1
+      collapsed: 0
+      snapOffset: {x: -232.00098, y: -197.33432}
+      snapOffsetDelta: {x: 0, y: 0}
+      snapCorner: 3
+      layout: 4
+      size: {x: 0, y: 0}
+      sizeOverridden: 0
+    - dockPosition: 1
+      containerId: overlay-container--right
       displayed: 0
       id: Scene View/Occlusion Culling
 >>>>>>> Stashed changes
@@ -1100,7 +1169,11 @@ MonoBehaviour:
     m_Target: {x: -0.78201085, y: -0.8295627, z: 0.7604429}
     speed: 2
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     m_Value: {x: 0, y: 0, z: 0}
+=======
+    m_Value: {x: -0.78201085, y: -0.8295627, z: 0.7604429}
+>>>>>>> Stashed changes
 =======
     m_Value: {x: -0.78201085, y: -0.8295627, z: 0.7604429}
 >>>>>>> Stashed changes
@@ -1150,6 +1223,7 @@ MonoBehaviour:
     m_gridOpacity: 0.5
   m_Rotation:
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     m_Target: {x: 0, y: 0, z: 0, w: 1}
     speed: 2
     m_Value: {x: 0.00000009362675, y: 0, z: 0, w: 0.99999994}
@@ -1157,6 +1231,15 @@ MonoBehaviour:
     m_Target: 2.069287
     speed: 2
     m_Value: 2.069287
+=======
+    m_Target: {x: -0.25471658, y: 0.42319945, z: -0.12527823, w: -0.86044246}
+    speed: 2
+    m_Value: {x: -0.2497901, y: 0.4222116, z: -0.122235216, w: -0.86278665}
+  m_Size:
+    m_Target: 2.9247425
+    speed: 2
+    m_Value: 2.9247425
+>>>>>>> Stashed changes
 =======
     m_Target: {x: -0.25471658, y: 0.42319945, z: -0.12527823, w: -0.86044246}
     speed: 2
@@ -1230,6 +1313,9 @@ MonoBehaviour:
     y: 701.3334
     width: 562.33325
     height: 164.66663
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
   m_SerializedDataModeController:
     m_DataMode: 0
@@ -1249,7 +1335,11 @@ MonoBehaviour:
   m_TargetDisplay: 0
   m_ClearColor: {r: 0, g: 0, b: 0, a: 0}
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   m_TargetSize: {x: 545.4, y: 225.79999}
+=======
+  m_TargetSize: {x: 562.33325, y: 143.66663}
+>>>>>>> Stashed changes
 =======
   m_TargetSize: {x: 562.33325, y: 143.66663}
 >>>>>>> Stashed changes
@@ -1277,6 +1367,9 @@ MonoBehaviour:
     m_HBaseRangeMax: 187.44443
     m_VBaseRangeMin: -47.888878
     m_VBaseRangeMax: 47.888878
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
@@ -1305,6 +1398,9 @@ MonoBehaviour:
       height: 143.66663
     m_Scale: {x: 1.5, y: 1.5}
     m_Translation: {x: 281.16663, y: 71.83331}
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     m_MarginLeft: 0
     m_MarginRight: 0
@@ -1313,6 +1409,7 @@ MonoBehaviour:
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       x: -218.16
       y: -90.32
       width: 436.32
@@ -1320,6 +1417,15 @@ MonoBehaviour:
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_LastWindowPixelSize: {x: 681.75, y: 308.5}
+=======
+      x: -187.44441
+      y: -47.888874
+      width: 374.88882
+      height: 95.77775
+    m_MinimalGUI: 1
+  m_defaultScale: 1
+  m_LastWindowPixelSize: {x: 843.4999, y: 246.99994}
+>>>>>>> Stashed changes
 =======
       x: -187.44441
       y: -47.888874
