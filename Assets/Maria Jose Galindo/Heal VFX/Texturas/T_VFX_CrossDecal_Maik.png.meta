@@ -1,13 +1,9 @@
 fileFormatVersion: 2
-<<<<<<< HEAD
 <<<<<<<< HEAD:Assets/Michael Zapata/HealVFX/Textures/T_VFX_CrossDecal_Maik.png.meta
 guid: 805ed2d7e2ce8c84c8cb54bb88dcbcce
 ========
 guid: 1cba27bef0e95d9429b4a2170136d0b9
 >>>>>>>> 538c34389df009ab65da16591e3c3c34e9fbfc33:Assets/Maria Jose Galindo/Heal VFX/Texturas/T_VFX_CrossDecal_Maik.png.meta
-=======
-guid: 744ad1a620575d5448573c8bef35014c
->>>>>>> 538c34389df009ab65da16591e3c3c34e9fbfc33
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
