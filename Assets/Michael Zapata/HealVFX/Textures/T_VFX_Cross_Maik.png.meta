@@ -1,13 +1,5 @@
 fileFormatVersion: 2
-<<<<<<< HEAD
-<<<<<<<< HEAD:Assets/Michael Zapata/HealVFX/Textures/T_VFX_CrossDecal_Maik.png.meta
-guid: 805ed2d7e2ce8c84c8cb54bb88dcbcce
-========
-guid: 1cba27bef0e95d9429b4a2170136d0b9
->>>>>>>> 538c34389df009ab65da16591e3c3c34e9fbfc33:Assets/Maria Jose Galindo/Heal VFX/Texturas/T_VFX_CrossDecal_Maik.png.meta
-=======
-guid: 744ad1a620575d5448573c8bef35014c
->>>>>>> 538c34389df009ab65da16591e3c3c34e9fbfc33
+guid: 75a723aa47ada2e43a77a33cedf40eef
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -90,6 +82,32 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
     buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1

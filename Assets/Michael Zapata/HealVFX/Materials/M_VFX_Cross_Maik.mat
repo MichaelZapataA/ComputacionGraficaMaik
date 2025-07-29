@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: M_VFX_CrossWalls_Maik
+  m_Name: M_VFX_Cross_Maik
   m_Shader: {fileID: 4800000, guid: 0406db5a14f94604a8c57ccfbc9f3b46, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -29,11 +29,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _BaseMap:
-<<<<<<<< HEAD:Assets/Michael Zapata/HealVFX/Materials/M_VFX_CrossWalls_Maik.mat
-        m_Texture: {fileID: 2800000, guid: 90f466911402c59409ce508102c9fcc0, type: 3}
-========
-        m_Texture: {fileID: 2800000, guid: 3a3383ffcf6974b47a80d171b8f40b9a, type: 3}
->>>>>>>> 538c34389df009ab65da16591e3c3c34e9fbfc33:Assets/Michael Zapata/HealVFX/Materials/M_Heal_Cross.mat
+        m_Texture: {fileID: 2800000, guid: 75a723aa47ada2e43a77a33cedf40eef, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BumpMap:
@@ -57,7 +53,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 90f466911402c59409ce508102c9fcc0, type: 3}
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
@@ -146,7 +142,7 @@ Material:
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
---- !u!114 &2414605304107054430
+--- !u!114 &5858841003785186722
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
