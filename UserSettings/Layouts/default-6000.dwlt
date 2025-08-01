@@ -338,7 +338,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 504
+    y: 448.8
     width: 1103
     height: 266
   m_SerializedDataModeController:
@@ -363,7 +363,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Michael Zapata/HealVFX/Materials
+    - Assets/Maria Jose Galindo/Heal VFX/Materiales
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -373,16 +373,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 67
   m_LastFolders:
-  - Assets/Michael Zapata/HealVFX/Materials
+  - Assets/Maria Jose Galindo/Heal VFX/Materiales
   m_LastFoldersGridSize: 67
   m_LastProjectPath: "C:\\Majo\\MajoUPB\\Semestre 7\\Computaci\xF3n Grafica\\ComputacionGraficaMaik"
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 138}
-    m_SelectedIDs: e8a90000
-    m_LastClickedID: 43496
-    m_ExpandedIDs: 00000000f6a60000d4a80000d6a8000046a90000daa9000000ca9a3bffffff7f
+    m_SelectedIDs: e0a80000
+    m_LastClickedID: 43232
+    m_ExpandedIDs: 00000000a4a60000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -411,7 +411,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000f6a60000
+    m_ExpandedIDs: 00000000a4a60000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -490,8 +490,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Inspector\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 1104
-    y: 79.200005
+    x: 1105
+    y: 24
     width: 431
     height: 690.8
   m_SerializedDataModeController:
@@ -540,7 +540,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 79.200005
+    y: 24
     width: 271.8
     height: 398.8
   m_SerializedDataModeController:
@@ -557,9 +557,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 389bfeff
-      m_LastClickedID: -91336
-      m_ExpandedIDs: b6f9ffff9ea60000
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: e2faffff48a60000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -605,8 +605,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Scene\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 272.80002
-    y: 79.200005
+    x: 273.8
+    y: 24
     width: 829.2
     height: 398.8
   m_SerializedDataModeController:
@@ -981,9 +981,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: 0.2803345, y: 1.453002, z: 0.25640467}
+    m_Target: {x: 0, y: 0, z: 0}
     speed: 2
-    m_Value: {x: 0.2803345, y: 1.453002, z: 0.25640467}
+    m_Value: {x: -0.85235244, y: 1.4959997, z: -0.88849926}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1029,17 +1029,17 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.07394391, y: 0.64459664, z: -0.06286333, w: -0.7584559}
+    m_Target: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
     speed: 2
-    m_Value: {x: -0.07386179, y: 0.6454484, z: -0.062946364, w: -0.75761384}
+    m_Value: {x: -0.02535194, y: 0.95173347, z: -0.08186889, w: -0.2947175}
   m_Size:
-    m_Target: 2.056218
+    m_Target: 10
     speed: 2
-    m_Value: 2.056218
+    m_Value: 3.1420517
   m_Ortho:
-    m_Target: 1
+    m_Target: 0
     speed: 2
-    m_Value: 1
+    m_Value: 0
   m_CameraSettings:
     m_Speed: 1
     m_SpeedNormalized: 0.5
