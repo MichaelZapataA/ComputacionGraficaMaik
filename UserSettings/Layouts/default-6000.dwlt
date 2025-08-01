@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1536
     height: 772.8
   m_ShowMode: 4
-  m_Title: Inspector
+  m_Title: Project
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 38
+  controlID: 102
   draggingID: 0
 --- !u!114 &3
 MonoBehaviour:
@@ -225,7 +225,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 39
+  controlID: 49
   draggingID: 0
 --- !u!114 &10
 MonoBehaviour:
@@ -338,7 +338,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 448.8
+    y: 504
     width: 1103
     height: 266
   m_SerializedDataModeController:
@@ -363,7 +363,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Maria Jose Galindo/Heal VFX/Materiales
+    - Assets/Maria Jose Galindo/Heal VFX/Meshes
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -373,16 +373,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 67
   m_LastFolders:
-  - Assets/Maria Jose Galindo/Heal VFX/Materiales
+  - Assets/Maria Jose Galindo/Heal VFX/Meshes
   m_LastFoldersGridSize: 67
   m_LastProjectPath: "C:\\Majo\\MajoUPB\\Semestre 7\\Computaci\xF3n Grafica\\ComputacionGraficaMaik"
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 138}
-    m_SelectedIDs: e0a80000
-    m_LastClickedID: 43232
-    m_ExpandedIDs: 00000000a4a60000
+    scrollPos: {x: 0, y: 79}
+    m_SelectedIDs: 9aa80000
+    m_LastClickedID: 43162
+    m_ExpandedIDs: 00000000a4a600005ea8000060a8000096a80000eaa8000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -440,7 +440,7 @@ MonoBehaviour:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 1
-    m_ExpandedInstanceIDs: c62300006ca90000aaa500004ca9000014a9000028a9000024a900000000000004aa0000
+    m_ExpandedInstanceIDs: c62300006ca90000aaa500004ca9000014a9000028a9000024a900000000000004aa0000d6a80000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -490,8 +490,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Inspector\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 1105
-    y: 24
+    x: 1104
+    y: 79.200005
     width: 431
     height: 690.8
   m_SerializedDataModeController:
@@ -540,7 +540,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 24
+    y: 79.200005
     width: 271.8
     height: 398.8
   m_SerializedDataModeController:
@@ -557,9 +557,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: d6a80000
       m_LastClickedID: 0
-      m_ExpandedIDs: e2faffff48a60000
+      m_ExpandedIDs: fefaffff4ea60000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -605,8 +605,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Scene\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 273.8
-    y: 24
+    x: 272.80002
+    y: 79.200005
     width: 829.2
     height: 398.8
   m_SerializedDataModeController:
@@ -900,7 +900,7 @@ MonoBehaviour:
       sizeOverridden: 0
     - dockPosition: 0
       containerId: Floating
-      displayed: 1
+      displayed: 0
       id: Scene View/Particles
       index: 0
       contents: '{"m_Layout":4,"m_Collapsed":false,"m_Floating":true,"m_FloatingSnapOffset":{"x":-232.0009765625,"y":-198.4010009765625},"m_SnapOffsetDelta":{"x":0.0,"y":0.0},"m_FloatingSnapCorner":3,"m_Size":{"x":0.0,"y":0.0},"m_SizeOverridden":false}'
@@ -1033,9 +1033,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: -0.02535194, y: 0.95173347, z: -0.08186889, w: -0.2947175}
   m_Size:
-    m_Target: 10
+    m_Target: 3.9248233
     speed: 2
-    m_Value: 3.1420517
+    m_Value: 4.1097627
   m_Ortho:
     m_Target: 0
     speed: 2
