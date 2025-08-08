@@ -509,7 +509,7 @@ PlayableDirector:
   serializedVersion: 3
   m_PlayableAsset: {fileID: 11400000, guid: 3b12ac44291e4fe4e85f09f2e794c90c, type: 2}
   m_InitialState: 1
-  m_WrapMode: 2
+  m_WrapMode: 1
   m_DirectorUpdateMode: 1
   m_InitialTime: 0
   m_SceneBindings:
@@ -667,31 +667,31 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 01a8ddab2ef7c034fb6b60f0b5d1dee9, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.1853311
+      value: 0.33427268
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 01a8ddab2ef7c034fb6b60f0b5d1dee9, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.4806802
+      value: 0.35508156
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 01a8ddab2ef7c034fb6b60f0b5d1dee9, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -0.10215515
+      value: 3.7985814
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 01a8ddab2ef7c034fb6b60f0b5d1dee9, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.588759
+      value: 0.3942992
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 01a8ddab2ef7c034fb6b60f0b5d1dee9, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0.2991287
+      value: -0.026650403
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 01a8ddab2ef7c034fb6b60f0b5d1dee9, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0.026042297
+      value: -0.07231136
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 01a8ddab2ef7c034fb6b60f0b5d1dee9, type: 3}
       propertyPath: m_LocalRotation.z
-      value: -0.75047106
+      value: 0.9157451
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 01a8ddab2ef7c034fb6b60f0b5d1dee9, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
